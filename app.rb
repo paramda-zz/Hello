@@ -7,4 +7,5 @@ end
 get '/:name' do
   "Hello, #{params[:name]}!"
 end
-end
+end 
+

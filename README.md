@@ -182,3 +182,4 @@ Support this project by becoming a [sponsor](https://opencollective.com/rvm#spon
 Copyright (C) Michal Papis (2011-2018), Piotr Kuczynski (2016-2018), Wayne E. Seguin (2009-2011) 
 
 Licensed under the [Apache License](LICENSE), Version 2.0
+
